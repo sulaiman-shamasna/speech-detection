@@ -22,3 +22,6 @@ pip install -r requirements
 ```py
 python live_stream_prediction.py
 ```
+
+## Visualization
+![Plot](https://github.com/sulaiman-shamasna/speech-detection-WebRTC/blob/main/graph/visualization.png)
