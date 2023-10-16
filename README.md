@@ -7,7 +7,7 @@ Detection of speech activity during live stream recording using WebRTC-VAD and S
 To be able to work with this project, follow the following steps
 1. Clone this repo to an existing repo using the command:
 ```py
-git clone https://github.com/sulaiman-shamasna/speech-detection.git
+git clone https://github.com/sulaiman-shamasna/speech-detection-WebRTC.git
 ```
 2. Create a virtual environment and activate it using the commands:
 ```py
