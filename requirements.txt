@@ -1,3 +1,5 @@
 webrtcvad
 numpy
 sounddevice
+matplotlib
+librosa
